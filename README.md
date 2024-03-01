@@ -85,7 +85,7 @@
 5. 
 
 # Contributing
-This is a crowd-sourced list. It is maintained by the community.
+This is a crowd-sourced list. It is maintained by the community.  
 So, please feel free to contribute to this list by submitting a pull request (**Add your name to the contributors list below if you want to be recognized for your contribution**).
 
 **💥 First Time Contributor?** Read this [blog](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project). 💥
