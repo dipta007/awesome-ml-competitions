@@ -7,6 +7,10 @@
 
 ## NLP
 
+#### NAACL 2024
+1. [AmericasNLP 2024](https://turing.iimas.unam.mx/americasnlp/2024_st.html)
+2. [ClinicalNLP 2024](https://clinical-nlp.github.io/2024/call-for-papers.html#:~:text=20%20or%2021.-,Shared%20Tasks,-Clinical%20NLP%202024)
+
 #### ACL 2024
 1. [ArgMining 2024](https://argmining-org.github.io/2022/index.html#shared_task)
 2. [TextGraphs 2024](https://sites.google.com/view/textgraphs2024/home/shared-task?authuser=0)
@@ -104,7 +108,8 @@ So, please feel free to contribute to this list by submitting a pull request (**
 
 ## Contributors
 1. [Shubhashis Roy Dipta](http://roydipta.com/)
-2. ...
+2. [Refaat Mohammad Alamgir](https://www.linkedin.com/in/refaat31/)
+3. ...
 
 ## Contact
 If you have any questions or suggestions, please feel free to contact me at [sroydip1@umbc.edu](mailto:sroydip1@umbc.edu)
