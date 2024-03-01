@@ -2,8 +2,8 @@
 
 ## Table of Contents
 1. [NLP](#NLP)
-2. [Computer Vision](https://github.com/dipta007/awesome-shared-tasks#nlp#Computer-Vision)
-3. (Multimodal)[https://github.com/dipta007/awesome-shared-tasks#nlp#Multimodal]
+2. [Computer Vision](#Computer-Vision)
+3. [Multimodal](#Multimodal)
 
 ## NLP
 
